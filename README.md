@@ -208,12 +208,6 @@ This project is a **safety-assistance prototype**, not a certified safety system
 ![Compliance Report](assets/screenshots/compliance-report.png)
 
 
-## 👨‍💻 Author
-
-**Rajanish Kumrawat**
-
-GitHub: [@rajanish-8](https://github.com/rajanish-8)
-
 ---
 
 *Built as an AI and computer vision project to support construction-site safety monitoring and compliance analysis.*
